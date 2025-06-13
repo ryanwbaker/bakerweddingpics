@@ -98,7 +98,7 @@ export default function App() {
       <img src="/s_r.png" className="max-w-[60%] sm:max-w-[30%] rotate-2"/>
       <h1 className="text-3xl font-bold mb-6 text-center">Photo & Video Upload Portal</h1>
 
-      <p className="max-w-[40%]">Thank you so much for celebrating with us! We would love it if you could share some of the special moments that we couldn't see ourselves.<br /><br /> This application is designed for ease (but also with love, by Ryan [#️⃣DontBeMean 😭]). There is no login required to upload. Note that photos <span className="font-bold">cannot be deleted</span> (however, we can delete them ourselves later). Some video or image formats may not display correctly in the gallery, but if you see a placeholder image in the gallery, we have received it and will be able to view it later!</p><br />
+      <p className="max-w-[40%]">Thank you so much for celebrating with us! We would love it if you could share some of the special moments that we couldn't see ourselves.<br /><br /> This application is designed for ease (but also with love, by Ryan #️⃣DontBeMean 😭). There is no login required to upload. Note that photos <span className="font-bold">cannot be deleted</span> (however, we can delete them ourselves later). Some video or image formats may not display correctly in the gallery, but if you see a placeholder image in the gallery, we have received it and will be able to view it later!</p><br /><br /> <span className="font-bold">This gallery will be closed one week after the wedding, so please upload your photos as soon as able.</span><br />
       <div className="mb-4 space-y-4 w-[60%]">
         <input
           type="file"
