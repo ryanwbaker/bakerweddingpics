@@ -154,7 +154,7 @@ export default function App() {
                       src={item.public_url}
                       alt="guest upload"
                       className="media-portrait rounded-2xl"
-                      onError={(e) => (e.target.src = "/public/fallback.png")}
+                      onError={(e) => (e.target.src = "/fallback.png")}
                     />
                   )}
                 </CardContent>
