@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 
+
 const PAGE_SIZE = 12;
 
 export default function App() {
@@ -126,7 +127,7 @@ export default function App() {
         Thank you so much for celebrating with us! We would love it if you could share some of the special moments that we couldn't see ourselves.
         <br />
         <br />
-        This application was designed by Ryan (with love ❤️) but is ultimately made for easy uploading. There is no login required to upload. Note that photos <span className="font-bold">cannot be deleted</span>, however, we (Ryan & Steph) can delete them ourselves later. Some video or image formats may not display correctly in the gallery, but if you see a placeholder image in the gallery, we have received it and will be able to view it later!
+        This application was designed by Ryan (with love ❤️). It is designed for easy uploading, so no login required to upload. Note that photos <span className="font-bold">cannot be deleted</span>, however, we (Ryan & Steph) can delete them ourselves later. Some video or image formats may not display correctly in the gallery (for example HEIC/HEIF files for Android users), but if you see a placeholder image in the gallery, we have received it and will be able to convert it/view it later!
       </p>
       <br />
       <br />
